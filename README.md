@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi there 👋, I'm Hemanth Kumar K
 
-<!--
-**Hemanth-prog-alt/hemanth-prog-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Sc. Computer Systems and Design Student  
+🏫 PSG College of Technology  
+📍 Tamil Nadu, India  
+💻 Passionate about Software Development, Web Development, Machine Learning, and Problem Solving  
 
-Here are some ideas to get you started:
+I am a motivated computer systems student focused on building strong technical skills in software development and modern technologies. I enjoy learning, solving challenges, and continuously improving my programming abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect With Me
+📧 Email: hemanthk1806@gmail.com  
+💼 LinkedIn: linkedin.com/in/hemanth-kumar-k-83784036  
+🐙 GitHub: github.com/hemanth-prog-alt  
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+- C
+- C++
+- Java
+- Python
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+### Tools & Platforms
+- VS Code
+- GitHub
+- Code::Blocks
+
+### Core Skills
+- Data Structures
+- Design and Analysis of Algorithms
+- Object-Oriented Programming
+- Probability & Statistics
+- Machine Learning
+- Analytics
+
+---
+
+## 📜 Certifications
+- AI/ML Certification
+- Introduction to Generative AI
+
+---
+
+## 🌱 Currently Learning
+- Advanced Python
+- Machine Learning
+- Full Stack Web Development
+- Data Analytics
+
+---
+
+## 🎯 Goals
+- Build impactful software solutions
+- Contribute to open-source projects
+- Improve problem-solving skills
+- Gain industry experience through internships
+
+---
+
+## ⚡ Interests
+- Software Development
+- Web Development
+- Problem Solving
+- Technology Innovation
+
+---
+
+### 📈 GitHub Stats
+![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth-prog-alt&show_icons=true)
+
+---
+
+⭐️ From Hemanth Kumar K

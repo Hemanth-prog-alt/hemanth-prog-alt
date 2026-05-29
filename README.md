@@ -41,14 +41,7 @@ I am a motivated computer systems student focused on building strong technical s
 - Design and Analysis of Algorithms
 - Object-Oriented Programming
 - Probability & Statistics
-- Machine Learning
 - Analytics
-
----
-
-## 📜 Certifications
-- AI/ML Certification
-- Introduction to Generative AI
 
 ---
 
@@ -57,14 +50,6 @@ I am a motivated computer systems student focused on building strong technical s
 - Machine Learning
 - Full Stack Web Development
 - Data Analytics
-
----
-
-## 🎯 Goals
-- Build impactful software solutions
-- Contribute to open-source projects
-- Improve problem-solving skills
-- Gain industry experience through internships
 
 ---
 

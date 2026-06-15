@@ -61,9 +61,5 @@ I am a motivated computer systems student focused on building strong technical s
 
 ---
 
-### 📈 GitHub Stats
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth-prog-alt&show_icons=true)
-
----
 
 ⭐️ From Hemanth Kumar K
